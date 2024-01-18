@@ -1,1 +1,1 @@
-# **This is course about git and github**
+# **This is course about git and github OKI**
